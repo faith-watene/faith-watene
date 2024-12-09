@@ -5,8 +5,10 @@
 <p align="left">
    
 </p>
+#### Fun fact
 <p align="left"> 
-When I'm not coding find me taking photos or trying to jump out of the nearest plane.
+
+I have participated in the Presidential Awards and achieved the Bronze level.
 </p>
 
 <div align="left">
