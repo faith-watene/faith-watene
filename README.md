@@ -12,32 +12,26 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 <div align="left">
   
   [![Linkedin Badge](https://img.shields.io/badge/-faith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faith-wangui-7a85862b8/)](https://www.linkedin.com/in/faith-wangui-7a85862b8/)
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanguufaith@gmail.com)](mailto:wanguufaith@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-faith-watene.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanguufaith@gmail.com)](mailto:wanguufaith@gmail.com)
 </div>
-<br>
+<br> 
 
- 
- 
-<br>
+### 1. **Python Stack (Core Language)**:
+   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40">
 
-### Tech Skills
-<p> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy-logo" height="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn-logo" height="40">
-</p>
+### 2. **Data Science & Machine Learning Stack**:
+  <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="40" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"></p>
 
-<br>
+### 3. **Development Tools**:
+   <p><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"></p>
 
- 
-  
+### 4. **Database Stack**:
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40">
 
 <br>
 
