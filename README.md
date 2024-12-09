@@ -1,15 +1,15 @@
-<h1 align="center">👋 Hello! I'm Faith Watene</h1>
+<h1 align="left">👋 Hello! I'm Faith Watene</h1>
 
-<p align="center">
+<p align="left">
    
 </p>
-<p align="center"> 
+<p align="left"> 
 When I'm not coding find me taking photos or trying to jump out of the nearest plane.
 </p>
 
-<div align="center">
+<div align="left">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-faith-watene-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faith-wangui-7a85862b8/)](https://www.linkedin.com/in/faith-wangui-7a85862b8/)
+  [![Linkedin Badge](https://img.shields.io/badge/-faith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faith-wangui-7a85862b8/)](https://www.linkedin.com/in/faith-wangui-7a85862b8/)
   [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanguufaith@gmail.com)](mailto:wanguufaith@gmail.com)
 </div>
 <br>
