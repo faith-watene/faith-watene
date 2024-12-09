@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello! I'm Faith Watene</h1>
-<img src="https://png.pngtree.com/thumb_back/fh260/background/20201030/pngtree-gradient-purple-technology-lines-background-image_450558.jpg" alt="banner" width = 100% height = 60%>
+<img src="https://github.com/faith-watene/faith-watene/blob/main/Faith%20Wangui%20(1).png" alt="banner" width = 100% height = 60%>
  
 
 <p align="left">
