@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello! I'm Faith Watene</h1>
-<img src="https://github.com/faith-watene/faith-watene/blob/main/Faith%20Wangui%20(1).png" alt="banner" width = 100% height = 60px>
+<img src="https://github.com/faith-watene/faith-watene/blob/main/Faith%20Wangui%20(1).png" alt="banner" width = 100% height = 120px>
  
 
 <p align="left">
