@@ -1,4 +1,6 @@
 <h1 align="left">👋 Hello! I'm Faith Watene</h1>
+<img src="https://png.pngtree.com/thumb_back/fh260/background/20201030/pngtree-gradient-purple-technology-lines-background-image_450558.jpg" alt="banner" width = 100% height = 60%>
+ 
 
 <p align="left">
    
@@ -50,8 +52,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
  
 
 
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=faith-watene.faith-watene) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-purple.svg?style=flat&logo=github)](https://github.com/faith-watene) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/faith-watene)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-purple.svg?style=flat&logo=github)](https://github.com/faith-watene) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/faith-watene)
 
 
 <!--
