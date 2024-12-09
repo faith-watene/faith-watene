@@ -18,37 +18,43 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
  
 <br>
 
-### What I always play with
+### Tech Skills
 <p> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy-logo" height="30">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn-logo" height="30">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy-logo" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn-logo" height="40">
 </p>
 
 <br>
 
-### What I sometimes play with
+ 
   
 
 <br>
 
-### Quick stats about me
+### Quick Stats
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Faith Watene github stats](https://github-readme-stats.vercel.app/api?username=faith-watene&show_icons=true&title_color=a020f0&icon_color=f6c32c&text_color=e6e6fa&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faith-watene&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+|![Faith Watene github stats](https://github-readme-stats.vercel.app/api?username=faith-watene&show_icons=true&title_color=000000&icon_color=4B0082&text_color=000000&bg_color=E6E6FA&count_private=true) | ![Faith's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faith-watene&show_icons=true&title_color=000000&icon_color=4B0082&text_color=000000&bg_color=E6E6FA&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faith-watene&color=000000&bg)](https://git.io/streak-stats)
+|
 
+ 
+ 
 
 
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=faith-watene.faith-watene) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-purple.svg?style=flat&logo=github)](https://github.com/faith-watene) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/faith-watene)
 
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 <!--
 **faith-watene/faith-watene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
